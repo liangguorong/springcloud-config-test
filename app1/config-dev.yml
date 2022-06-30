@@ -1,4 +1,3 @@
 testconfig:
-  profile: test
-  content: test-xxxx
-  app: app1
+  profile: dev
+  path: /app1/config-dev.yml
