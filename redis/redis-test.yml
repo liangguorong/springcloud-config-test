@@ -1,0 +1,3 @@
+testconfig:
+  profile: test
+  path: /redis/redis-test.yml

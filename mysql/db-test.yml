@@ -1,0 +1,3 @@
+testconfig:
+  profile: test
+  path: /mysql/db-test.yml
