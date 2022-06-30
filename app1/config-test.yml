@@ -1,0 +1,4 @@
+testconfig:
+  profile: dev
+  content: dev-xxxx
+  app: app1
