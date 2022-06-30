@@ -1,3 +1,0 @@
-testconfig:
-  profile: dev
-  path: /app1/config-dev.yml
